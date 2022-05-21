@@ -1,7 +1,7 @@
 # WinEditLine
 Forked from http://mingweditline.sourceforge.net/?Downloads
 
-A Git version of the project is also available on https://github.com/ptosco/wineditline
+The original project is also available on: https://github.com/ptosco/wineditline
 
 This is a **Windows** version for the EditLine Library, also available in: https://github.com/bgrieco/Editline
 
